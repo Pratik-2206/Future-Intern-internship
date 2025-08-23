@@ -1,5 +1,6 @@
 # Task 1 – Web Application Security Testing
-
+Name: Pratik Baburao Mane
+Date: 22 Aug 2025
 ### Objective
 
 Tested a sample web application using OWASP guidelines to identify common security flaws.
